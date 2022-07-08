@@ -2,7 +2,7 @@ import random
 
 print("-------------------------------")
 
-print ("Welcome! Let's Play a Game :)")
+print ("Welcome Player One! Let's Play a Game :)")
 
 print("-------------------------------")
 

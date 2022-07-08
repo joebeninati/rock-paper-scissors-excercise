@@ -8,7 +8,7 @@ print("-------------------------------")
 
 user_choice = input("Rock, Paper, or Scissors? ").lower()
 while user_choice != "rock" and user_choice != "paper" and user_choice != "scissors":
-    user_choice = input("Sorry, Invalid User Choice - Please Try Again: ").lower()
+    user_choice = input("Oops, Invalid User Choice. Please Try Again: ").lower()
 
 print("-------------------------------")
 

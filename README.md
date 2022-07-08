@@ -1,10 +1,10 @@
 # Rock, Paper, Scissors Excercise
 
-## Steps:
+## Steps to Play:
 
-1. Create a remote project reposisitory on Github and clone to local computer via GitHub Desktop
-2. Navigate to the project repository
-3. Create a .py file in the repositiry and place the following contents inside: print("Rock, Paper, Scissors, Shoot!")
-4. Create and activate a project-specific Anaconda virtual environment
-5. Run the Python script to test it out!
-6. If you see "Rock, Paper, Scissors, Shoot!", you're all set!
+1. Navigate via web browser to: https://github.com/joebeninati/rock-paper-scissors-excercise
+2. Click the "green button" to open the repository via GitHub Desktop
+3. Save the repository locally
+4. Using the command line, navigate to the relevant local repository
+6. Activate the necessary Anaconda environment using conda activate my-game-env
+7. Run the program using python game.py
